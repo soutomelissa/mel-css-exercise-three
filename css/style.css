@@ -42,8 +42,11 @@ h3 {
 }
 
 .arrow {
-text-align: right;
-color: #black;
+  float: center;
+  text-align: right;
+  color: #black;
+  margin-bottom: 25px;
+  margin-top: -25px;
 }
 
 body {
